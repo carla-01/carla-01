@@ -3,55 +3,52 @@
 ###
 
 <div align="center">
-  <!-- Estatísticas gerais com cache-busttttt -->
-  <img src="https://github-readme-stats.vercel.app/api?username=carla-01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&random=1" height="150" alt="GitHub Stats"/>
+  <!-- Estatísticas -->
+  <img src="https://github-readme-stats.vercel.app/api?username=carla-01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   
-  <!-- Linguagens mais usadas - Configuração OTIMIZADA -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carla-01&layout=compact&langs_count=6&theme=dracula&hide_border=true&hide=html,css,scss,markdown,json,yaml,xml&exclude_repo=cineminha.c&count_private=true&random=2" height="150" alt="Most Used Languages"/>
+  <!-- Linguagens mais usadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carla-01&layout=compact&langs_count=6&theme=dracula&hide_border=true&hide=json,markdown,yaml&exclude_repo=cineminha.c" height="150" alt="most used languages" />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.gifer.com/BPmy.gif" alt="Coding GIF"/>
+<img align="right" height="150" src="https://i.gifer.com/BPmy.gif" alt="GIF animado" />
 
 ###
 
 <div align="left">
-  <!-- Ícones com tooltips -->
+  <!-- Java -->
+  <a href="https://www.java.com" target="_blank" rel="noreferrer" title="Java">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
+  </a>
+  <img width="12" />
+
+  <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   </a>
-  <img width="12"/>
-  
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript"/>
+  <img width="12" />
+
+  <!-- HTML5 -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer" title="HTML5">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
   </a>
-  <img width="12"/>
-  
-  <a href="https://react.dev/" target="_blank" rel="noreferrer" title="React">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>
+  <img width="12" />
+
+  <!-- CSS3 -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" title="CSS3">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
   </a>
-  <img width="12"/>
-  
-  <!-- Adicionei C aqui -->
-  <a href="https://en.cppreference.com/w/c/language" target="_blank" rel="noreferrer" title="C Programming">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C Language"/>
-  </a>
-  <img width="12"/>
-  
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer" title="Python">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
-  </a>
-  <img width="12"/>
-  
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" title="C#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#"/>
+  <img width="12" />
+
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
   </a>
 </div>
 
 ###
 
 <div align="center">
-  <!-- Contador de visitas -->
-  <img src="https://profile-counter.glitch.me/carla-01/count.svg?random=3" alt="Visitor Counter"/>
+  <img src="https://profile-counter.glitch.me/carla-01/count.svg" alt="Contador de visitas" />
 </div>
