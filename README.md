@@ -4,12 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=carla-01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carla-01/carla-01/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carla-01/carla-01/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/carla-01/carla-01/output/pacman-contribution-graph.svg" height="150">
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carla-01&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="most used languages" />
 </div>
 
 ###
