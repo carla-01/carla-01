@@ -3,8 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carla-01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carla-01&layout=compact&langs_count=8&theme=dracula&hide_border=true&hide=json,markdown,yaml&exclude_repo=cineminha.c" height="150" alt="most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=carla-01&hide_title=false&include_all_commits=true&count_private=true&show_icons=true&theme=dracula&hide_border=true&random=789" height="150" alt="stats"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carla-01&layout=compact&theme=dracula&hide_border=true&langs_count=8&hide=html,css,scss,json,markdown" height="150" alt="languages"/>
 </div>
 
 ###
