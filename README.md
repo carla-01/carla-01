@@ -3,11 +3,8 @@
 ###
 
 <div align="center">
-  <!-- Estatísticas -->
   <img src="https://github-readme-stats.vercel.app/api?username=carla-01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  
-  <!-- Linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carla-01&layout=compact&langs_count=6&theme=dracula&hide_border=true&hide=json,markdown,yaml&exclude_repo=cineminha.c" height="150" alt="most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carla-01&layout=compact&langs_count=8&theme=dracula&hide_border=true&hide=json,markdown,yaml&exclude_repo=cineminha.c" height="150" alt="most used languages" />
 </div>
 
 ###
@@ -20,6 +17,12 @@
   <!-- Java -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer" title="Java">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
+  </a>
+  <img width="12" />
+
+  <!-- C -->
+  <a href="https://en.cppreference.com/w/c/language" target="_blank" rel="noreferrer" title="Linguagem C">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
   </a>
   <img width="12" />
 
@@ -44,6 +47,12 @@
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  </a>
+  <img width="12" />
+
+  <!-- Power BI -->
+  <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer" title="Power BI">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="30" alt="Power BI" />
   </a>
 </div>
 
