@@ -49,11 +49,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
   </a>
   <img width="12" />
-
-  <!-- Power BI -->
-  <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer" title="Power BI">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="30" alt="Power BI" />
-  </a>
+  
 </div>
 
 ###
