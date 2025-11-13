@@ -55,6 +55,3 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/carla-01/count.svg" alt="Contador de visitas" />
-</div>
