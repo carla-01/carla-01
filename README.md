@@ -10,10 +10,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.gifer.com/BPmy.gif" alt="GIF animado" />
-
-###
-
 ##  **Tecnologias & Habilidades**
 
 ### **Frontend & Mobile**
@@ -33,4 +29,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+###
 
+<img width="498" height="309" alt="bibble-flapping-little-wings-barbie-fairytopia-qkupur3irnabxuny" src="https://github.com/user-attachments/assets/943845ec-f284-42cb-aa2b-bddfbe1a331d" />
